@@ -1,0 +1,292 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 8635900,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User should launch the chrome and load the url and maximize",
+            "match": {
+              "location": "HomeStepDefinition.userShouldLaunchTheChromeAndLoadTheUrlAndMaximize()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-03T15:26:04.258Z",
+        "before": [
+          {
+            "result": {
+              "duration": 39568601800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.BeforeScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 277600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.secondbefore()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "TC_OBS1 Verify user should launch OhBaby webiste",
+        "description": "",
+        "id": "to-validated-home-functionality-in-ohbaby-webiste;tc-obs1-verify-user-should-launch-ohbaby-webiste",
+        "after": [
+          {
+            "result": {
+              "duration": 230800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.sencondafter()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1049922900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.AfterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 28550800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User should navigate to OhBaby website and website should launch properly",
+            "match": {
+              "location": "HomeStepDefinition.userShouldNavigateToOhBabyWebsiteAndWebsiteShouldLaunchProperly()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4892700,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User should launch the chrome and load the url and maximize",
+            "match": {
+              "location": "HomeStepDefinition.userShouldLaunchTheChromeAndLoadTheUrlAndMaximize()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-03T15:26:45.324Z",
+        "before": [
+          {
+            "result": {
+              "duration": 27575992400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.BeforeScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 204100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.secondbefore()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "TC_OBS2 Verify NEW ARRIVALS is available in Home page",
+        "description": "",
+        "id": "to-validated-home-functionality-in-ohbaby-webiste;tc-obs2-verify-new-arrivals-is-available-in-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 204400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.sencondafter()"
+            }
+          },
+          {
+            "result": {
+              "duration": 4914001800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.AfterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10029600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User should validate the NEW ARRIVALS option is avaliable in home page",
+            "match": {
+              "location": "HomeStepDefinition.userShouldValidateTheNEWARRIVALSOptionIsAvaliableInHomePage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1958500,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User should launch the chrome and load the url and maximize",
+            "match": {
+              "location": "HomeStepDefinition.userShouldLaunchTheChromeAndLoadTheUrlAndMaximize()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-03T15:27:17.846Z",
+        "before": [
+          {
+            "result": {
+              "duration": 28489603200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.BeforeScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 199500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.secondbefore()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "TC_OBS3 Verify user should able to click NEW ARRIVALS option and should navigate to New Arrivals page",
+        "description": "",
+        "id": "to-validated-home-functionality-in-ohbaby-webiste;tc-obs3-verify-user-should-able-to-click-new-arrivals-option-and-should-navigate-to-new-arrivals-page",
+        "after": [
+          {
+            "result": {
+              "duration": 220100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.sencondafter()"
+            }
+          },
+          {
+            "result": {
+              "duration": 5243691800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.AfterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4473800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User should click the New Arrivals option",
+            "match": {
+              "location": "HomeStepDefinition.userShouldClickTheNewArrivalsOption()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1451500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User should verify New Arrivals page navigated",
+            "match": {
+              "location": "HomeStepDefinition.userShouldVerifyNewArrivalsPageNavigated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "To validated Home functionality in OhBaby webiste",
+    "description": "",
+    "id": "to-validated-home-functionality-in-ohbaby-webiste",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/FeatureFile/Home.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="107.327676">
+<testcase classname="To validated Home functionality in OhBaby webiste" name="TC_OBS1 Verify user should launch OhBaby webiste" time="41.043194">
+<system-out><![CDATA[Given User should launch the chrome and load the url and maximize...........passed
+Then User should navigate to OhBaby website and website should launch properly.passed
+]]></system-out>
+</testcase>
+<testcase classname="To validated Home functionality in OhBaby webiste" name="TC_OBS2 Verify NEW ARRIVALS is available in Home page" time="32.525887">
+<system-out><![CDATA[Given User should launch the chrome and load the url and maximize...........passed
+Then User should validate the NEW ARRIVALS option is avaliable in home page.passed
+]]></system-out>
+</testcase>
+<testcase classname="To validated Home functionality in OhBaby webiste" name="TC_OBS3 Verify user should able to click NEW ARRIVALS option and should navigate to New Arrivals page" time="33.758595">
+<system-out><![CDATA[Given User should launch the chrome and load the url and maximize...........passed
+When User should click the New Arrivals option..............................passed
+Then User should verify New Arrivals page navigated.........................passed
+]]></system-out>
+</testcase>
+</testsuite>
